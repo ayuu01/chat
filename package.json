@@ -6,8 +6,6 @@
   "scripts": {
     "dev": "nodemon server",
     "start": "node server.js"
-    
-
   },
   "keywords": [],
   "author": "",
